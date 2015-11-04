@@ -30,3 +30,9 @@ Related software
 A closely related Matlab/Octave implementation is available at
 http://tygert.com/software.html with benchmarking reported at
 http://tygert.com/implement.pdf
+
+Related Links
+---------------
+https://research.facebook.com/blog/294071574113354/fast-randomized-svd/
+
+https://www.reddit.com/r/MachineLearning/comments/3r71ft/fast_randomized_svd_facebook_blog_code/
